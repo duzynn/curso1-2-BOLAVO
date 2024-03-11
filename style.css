@@ -7,10 +7,13 @@ header{
 
    width: 20%;
    
+}
+.cabecalho-lista{
 
+    display: flex
+    flex-direction: row
 
 }
-
 
 
 
