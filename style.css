@@ -1,7 +1,25 @@
-header{
+*{
+    margin: 0;
+    padding: 0;
+
+
+
+
+
+
+
+
+
+
+}
+.cabecalho{
 
     background-color: #424E61;
     color: white;
+    display: flex
+    flex-direction: row;
+    justify-contend: space-aroud
+    aling-item: center;
 }
 .cabecalho-imagem{
 
@@ -11,7 +29,10 @@ header{
 .cabecalho-lista{
 
     display: flex
-    flex-direction: row
+    flex-direction: row;
+
+
+
 
 }
 
