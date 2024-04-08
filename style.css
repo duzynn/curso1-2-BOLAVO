@@ -25,7 +25,7 @@ body {
     display: inline-block;
     margin: 0 16px;
     font-size: 50px;
-    
+
 }
 
 .escola-imagem {
@@ -47,4 +47,8 @@ body {
 
 .escola-titulo {
     padding: 24px 0;
+}
+.estudante{
+    width: 200px;
+
 }
