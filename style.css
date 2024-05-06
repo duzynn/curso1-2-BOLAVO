@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
 }
+
 .body {
 
     font-family: "Caveat", cursive;
@@ -48,29 +49,32 @@
 .escola-titulo {
     padding: 24px 0;
 }
-.estudante-imagem{
+
+.estudante-imagem {
     width: 120px;
 
 }
-.estudante-icone{
+
+.estudante-icone {
     width: 24px;
 }
 
 
-.estudante-div{
+.estudante-div {
     text-align: center;
 
 }
-.estudante-titulo{
+
+.estudante-titulo {
     text-align: center;
     padding: 50px 0;
 
 }
 
 
-.estudantes-todos{
+.estudantes-todos {
     display: grid;
     grid-template-columns: 20% 20% 20% 20%;
 
-    
+
 }
